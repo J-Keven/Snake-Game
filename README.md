@@ -9,6 +9,9 @@ para baixar execute o seguinte comando no seu terminal:
 	
 ## Teclas para movimentar a snake:
 A -> Move para a esquerda
+
 D -> Move para a Direita
+
 W -> Move para Cima
+
 S -> Move para Baixo
